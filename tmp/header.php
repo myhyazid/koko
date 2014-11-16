@@ -6,6 +6,8 @@
 <link rel="shortcut icon" href="files/favicon.ico">
 <link rel="stylesheet" type="text/css" href="files/style.css">
 <script type="text/javascript" src="files/jawa.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 </head>
 
 <body>
